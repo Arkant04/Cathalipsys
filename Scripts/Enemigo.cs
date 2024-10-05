@@ -30,10 +30,6 @@ public class Enemigo : MonoBehaviour
     }
 
    
-    void Start()
-    {
-
-    }
 
     
 }
