@@ -1,0 +1,5 @@
+gatete: hecho pero no enviado
+fondo: hecho enviado, falta fondo nubes
+plattform: no hecho
+enemies: no
+animaCIONES: ESCRITAs no hechas
